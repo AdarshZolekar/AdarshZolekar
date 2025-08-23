@@ -36,7 +36,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
 ---
-## 📌**Featured Projects**
+## 📌 **Featured Projects**
 
 [![SMS-Spam-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=dark)](https://github.com/AdarshZolekar/SMS-Spam-Detection)
 
