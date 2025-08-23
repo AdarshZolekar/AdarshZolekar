@@ -38,11 +38,14 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
 ---
+
 ## 📌 **Featured Projects**
 
 [![SMS-Spam-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=dark)](https://github.com/AdarshZolekar/SMS-Spam-Detection)
 
+
 ## 📫 Connect with Me    
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshzolekar)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/AdarshZolekar)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adarshzolekar)
@@ -57,11 +60,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/AdarshZolekar?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AdarshZolekar?style=social) 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=8cc84b)
+
 ---
 
 ### 📈 **Commit Graph:**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
 </p>
-
+<h5>
 Thanks for visiting my profile. Let’s build something impactful together!
+</h5>
