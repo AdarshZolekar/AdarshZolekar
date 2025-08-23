@@ -1,9 +1,9 @@
 # Hi there ! 👋, I'm Adarsh Zolekar  
 
-<h3>
+<h4>
 • Second Year Computer Engineering Student @ SPPU 
 • Dedicated to mastering AI & ML
-</h3>
+</h4>
 
 ---
 
