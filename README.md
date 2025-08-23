@@ -43,6 +43,7 @@
 
 [![SMS-Spam-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=dark)](https://github.com/AdarshZolekar/SMS-Spam-Detection)
 
+---
 
 ## 📫 Connect with Me    
 
@@ -59,11 +60,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=radical)  
 ![GitHub followers](https://img.shields.io/github/followers/AdarshZolekar?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AdarshZolekar?style=social) 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=8cc84b)
 
 ---
 
-### 📈 **Commit Graph:**
+## 📈 **Commit Graph:**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
 </p>
