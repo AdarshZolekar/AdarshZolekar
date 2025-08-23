@@ -1,7 +1,7 @@
 # Hello World 👋, I'm Adarsh Zolekar  
 
-🎓 Second Year Computer Engineering Student @ SPPU 
-🌱 Dedicated to mastering 🤖 AI & ML and ☁ Cloud Computing
+• Second Year Computer Engineering Student @ SPPU 
+• Dedicated to mastering AI & ML and Cloud Computing
 
 ---
 
