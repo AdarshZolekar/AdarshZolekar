@@ -53,4 +53,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/AdarshZolekar?style=social) 
 ---
 
+### 📈 **Commit Graph:**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
+</p>
+
 ✨ Thanks for visiting my profile. Let’s build something impactful together 🚀
