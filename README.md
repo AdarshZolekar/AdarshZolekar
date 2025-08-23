@@ -1,4 +1,4 @@
-# Hello World 👋, I'm Adarsh Zolekar  
+# Hi there ! 👋, I'm Adarsh Zolekar  
 
 • Second Year Computer Engineering Student @ SPPU 
 • Dedicated to mastering AI & ML and Cloud Computing
@@ -58,4 +58,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
 </p>
 
-✨ Thanks for visiting my profile. Let’s build something impactful together 🚀
+Thanks for visiting my profile. Let’s build something impactful together!
