@@ -43,12 +43,15 @@
 <a href="https://www.linkedin.com/in/adarshzolekar">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
 </a>
+
 <a href="https://linktr.ee/AdarshZolekar">
   <img src="https://skillicons.dev/icons?i=linktree" alt="Linktree" width="40" />
 </a>
+
 <a href="https://www.hackerrank.com/profile/adarshzolekar">
   <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="40" />
 </a>
+
 <a href="mailto:adarshzolekar90@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
 </a>
