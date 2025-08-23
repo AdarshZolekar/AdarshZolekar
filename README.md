@@ -39,12 +39,19 @@
 
 ---
 
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshzolekar)  
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/AdarshZolekar)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adarshzolekar)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adarshzolekar90@gmail.com)   
+## 📫 Connect with Me    
+<a href="https://www.linkedin.com/in/adarshzolekar">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+</a>
+<a href="https://linktr.ee/AdarshZolekar">
+  <img src="https://skillicons.dev/icons?i=linktree" alt="Linktree" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/adarshzolekar">
+  <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="40" />
+</a>
+<a href="mailto:adarshzolekar90@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
+</a>
 
 ---
 
