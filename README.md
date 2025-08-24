@@ -1,4 +1,4 @@
-# Hi there ! 👋, I'm Adarsh Zolekar  
+# Hi, I'm Adarsh Zolekar 👋  
 
 <h4>
 • Second Year Computer Engineering Student @ SPPU 
