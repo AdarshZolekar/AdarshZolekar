@@ -7,11 +7,13 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+<h6>
 ● Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)  
 ● Exploring Industry 5.0 and Cloud (AWS) with AI/ML projects   
 ● Always learning: Python, DSA, SQL and Cloud AI tools  
 ● Actively preparing for hackathons, research projects and internships.  
+</h6>
 
 ---
 
@@ -61,6 +63,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/AdarshZolekar?style=social) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=blue)
+![trophy](https://github-profile-trophy.vercel.app/?username=AdarshZolekar&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+![snake gif](https://github.com/AdarshZolekar/AdarshZolekar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
