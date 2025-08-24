@@ -60,8 +60,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/AdarshZolekar?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AdarshZolekar?style=social) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=8cc84b)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=pie&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=blue)
 
 ---
