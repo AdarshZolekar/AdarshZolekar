@@ -62,8 +62,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=blue)
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=radical)
-
 ---
 
 ## 📈 **Commit Graph:**
