@@ -73,9 +73,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&rank_icon=github&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=transparent" />
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@
 ## 📈 Commit Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
 </p>
 
 <h5 align="center">
