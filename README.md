@@ -45,15 +45,22 @@
 ## 📫 Connect with Me    
 
 <p align="center">
+  📬 Check out my <b>LinkedIn</b> and <b>HackerRank</b> for professional updates, or reach me via <b>Linktree</b> and <b>Gmail</b>.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/adarshzolekar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linktr.ee/AdarshZolekar">
     <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/adarshzolekar">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:adarshzolekar90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
   </a>
