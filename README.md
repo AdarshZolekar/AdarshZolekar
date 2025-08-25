@@ -7,7 +7,7 @@
 <li><h5>• Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</h5></li>
 <li><h5>• Exploring Industry 5.0 and Cloud (AWS) with AI/ML projects</h5></li>   
 <li><h5>• Always learning: Python, DSA, SQL and Cloud AI tools</h5></li>  
-<li><h5>• Actively preparing for hackathons, research projects and internships.</h5></li> 
+<li><h5>• Actively preparing for hackathons, research projects and internships</h5></li> 
 </ul>
 
 ---
@@ -23,8 +23,8 @@
 | **Frameworks & Tools** |
 |-------------------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 | **Databases** | **Cloud** |
 |---------------|-----------|
@@ -32,26 +32,44 @@
 
 ---
 
-## 📌 **Featured Projects**
+## 📌 Featured Projects
 
-[![SMS-Spam-Detection](https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=dark)](https://github.com/AdarshZolekar/SMS-Spam-Detection)
+<p align="center">
+  <a href="https://github.com/AdarshZolekar/SMS-Spam-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect with Me    
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshzolekar)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/AdarshZolekar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adarshzolekar)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:adarshzolekar90@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarshzolekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/AdarshZolekar">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/adarshzolekar">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:adarshzolekar90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=radical" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
   <img src="https://img.shields.io/github/stars/AdarshZolekar?style=social" />
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=blue" />
@@ -59,7 +77,8 @@
 
 ---
 
-## 📈 **Commit Graph:**
+## 📈 Commit Graph  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
 </p>
