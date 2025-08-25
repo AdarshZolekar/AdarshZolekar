@@ -48,13 +48,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=radical)  
-![GitHub followers](https://img.shields.io/github/followers/AdarshZolekar?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/AdarshZolekar?style=social) 
-
-![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=radical" />
+  <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
+  <img src="https://img.shields.io/github/stars/AdarshZolekar?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&style=flat-square&color=blue" />
+</p>
 
 ---
 
@@ -62,6 +63,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=tokyo-night&hide_border=true" />
 </p>
-<h5>
+
+<h5 align="center">
 Thanks for visiting my profile. Let’s build something impactful together!
 </h5>
