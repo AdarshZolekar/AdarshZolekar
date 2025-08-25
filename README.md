@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 <ul>
-<li><h5> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</h5></li>
-<li><h5> Exploring Industry 5.0 and Cloud (AWS) with AI/ML projects</h5></li>   
-<li><h5> Always learning: Python, DSA, SQL and Cloud AI tools</h5></li>  
-<li><h5> Actively preparing for hackathons, research projects and internships</h5></li> 
+<li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
+<li> Exploring Industry 5.0 and Cloud (AWS) with AI/ML projects</li>   
+<li> Always learning: Python, DSA, SQL and Cloud AI tools</li>  
+<li> Actively preparing for hackathons, research projects and internships</li> 
 </ul>
 
 ---
