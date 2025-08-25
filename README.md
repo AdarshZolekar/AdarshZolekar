@@ -89,7 +89,7 @@
 ## 📈 Commit Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=lightblue&hide_border=true" />
 </p>
 
 <h5 align="center">
