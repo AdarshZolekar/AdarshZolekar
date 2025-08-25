@@ -44,12 +44,12 @@
 
 ## 📫 Connect with Me    
 
-<p align="center">
-   <ul><h5>
+<h5 align="center">
+   <ul>
   Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a> for updates
-  & reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.</h5>
+  & reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.
 </ul>
-</p>
+</h5>
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshzolekar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
