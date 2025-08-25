@@ -1,10 +1,5 @@
 <h2 align="center">Hi, I'm Adarsh 👋, Welcome to my Github profile!</h2>
 
-<h4>
- Second Year Computer Engineering Student @ SPPU 
-| Dedicated to mastering AI & ML
-</h4>
-
 ---
 
 ## 🚀 About Me
