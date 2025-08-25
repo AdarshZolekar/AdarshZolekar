@@ -46,8 +46,8 @@
 
 <p align="center">
    <ul>
-  <li>Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a> for professional updates.</li>
-  <li>Reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.</li>
+  Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a> for updates.
+  & reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.
 </ul>
 </p>
 <p align="center">
