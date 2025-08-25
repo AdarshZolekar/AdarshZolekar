@@ -14,6 +14,7 @@
 
 ## 🛠️ Tech Stack  
 
+<p align="center">
 | **Languages** | **Frontend** |
 |---------------|--------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
@@ -29,6 +30,7 @@
 | **Databases** | **Cloud** |
 |---------------|-----------|
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+</p>
 
 ---
 
