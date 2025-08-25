@@ -45,9 +45,8 @@
 ## 📫 Connect with Me    
 
 <p align="center">
-  📬 Check out my <b>LinkedIn</b> and <b>HackerRank</b> for professional updates, or reach me via <b>Linktree</b> and <b>Gmail</b>.
+   Check out my [LinkedIn](https://www.linkedin.com/in/adarshzolekar) and [HackerRank](https://www.hackerrank.com/profile/adarshzolekar) for professional updates, or reach me via [Linktree](https://linktr.ee/AdarshZolekar) and [Gmail](mailto:adarshzolekar90@gmail.com).
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshzolekar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
