@@ -9,6 +9,7 @@
 <li><h5>• Always learning: Python, DSA, SQL and Cloud AI tools</h5></li>  
 <li><h5>• Actively preparing for hackathons, research projects and internships.</h5></li> 
 </ul>
+
 ---
 
 ## 🛠️ Tech Stack  
