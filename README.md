@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/AdarshZolekar/SMS-Spam-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=transparent" />
   </a>
 </p>
 
