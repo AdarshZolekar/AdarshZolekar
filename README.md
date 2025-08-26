@@ -100,11 +100,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshZolekar&theme=github_transparent" />
-  
-</p>
-
 <h5 align="center">
 Thanks for visiting my profile. Let’s build something impactful together!
 </h5>
