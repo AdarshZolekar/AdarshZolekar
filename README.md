@@ -99,6 +99,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
 </p>
 
-<h6 align="center">
+<p align="center">
 *Thanks for visiting my profile. Let’s build something impactful together!*
-</h6>
+</p>
