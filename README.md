@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-*Thanks for visiting my profile. Let’s build something impactful together!*
+Thanks for visiting my profile. Let’s build something impactful together!
 </p>
