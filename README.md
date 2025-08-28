@@ -99,7 +99,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
 </p>
 
-## Quote
+💬 **Quote**
 > *"One should perform their duties with utmost sincerity, without attachment to the results."* - Lord Krishna, The Bhagavad Gita.
 
 <p align="center">
