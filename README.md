@@ -40,7 +40,7 @@
 
 ---
 
-## 📌 Featured Projects
+## ✨️ Featured Projects
 
 <p align="center">
   <a href="https://github.com/AdarshZolekar/SMS-Spam-Detection">
@@ -54,7 +54,7 @@
 
 <h5 align="center">
    <ul>
-  Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a> for updates
+  Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a>
   & reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.
 </ul>
 </h5>
