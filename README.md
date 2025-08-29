@@ -50,21 +50,29 @@
 
 ---
 
-## 📫 Connect with Me    
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adarshzolekar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+## 📫 Connect with me 
+   
+<h5 align="center">
+   <ul>
+  Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a>
+  & reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.
+</ul>
+</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarshzolekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/AdarshZolekar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/link.svg" alt="Linktree" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://linktr.ee/AdarshZolekar">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/adarshzolekar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/adarshzolekar">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:adarshzolekar90@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:adarshzolekar90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
 
