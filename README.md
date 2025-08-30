@@ -71,15 +71,18 @@
   <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  
   <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
   </a>
+  
   <a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="Linktree" width="40" height="40"/>
   </a>
-  <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a> 
+  
+  <a href="mailto:adarshzolekar90@gmail.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
 
 ---
