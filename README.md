@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdarshZolekar)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
