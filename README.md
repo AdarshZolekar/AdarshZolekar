@@ -64,7 +64,7 @@
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/AdarshZolekar/icons/main/lmstudio-icon.png" width="48" height="48" alt="LM Studio" />
+      <img src="https://lmstudio.ai/favicon.ico" width="48" height="48" alt="LM Studio" style="margin: 10px;" />
       <br>LM Studio
     </td>
     <td align="center" width="96">
