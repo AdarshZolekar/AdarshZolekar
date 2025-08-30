@@ -137,6 +137,8 @@
              alt="LeetCode" width="40" height="40"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" 
