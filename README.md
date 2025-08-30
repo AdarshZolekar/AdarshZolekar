@@ -98,7 +98,9 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdarshZolekar)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AdarshZolekar" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
