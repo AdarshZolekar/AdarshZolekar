@@ -75,7 +75,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="LeetCode" width="40" height="40" hspace="10"/>
   </a>
   <a href="https://www.kaggle.com/adarshzolekar" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/kaggle-icon.svg" alt="Kaggle" width="40" height="40" style="margin-right:15px;" hspace="10"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="margin-right:15px;" hspace="10"/>
   </a>
   <a href="https://huggingface.co/adarshzolekar" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40" style="margin-right:15px;" hspace="10"/>
