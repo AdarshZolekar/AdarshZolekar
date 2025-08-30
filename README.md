@@ -98,6 +98,10 @@
 </p>
 
 <p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
   <img src="https://img.shields.io/github/stars/AdarshZolekar?style=social" />
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=brightgreen" />
