@@ -59,20 +59,26 @@
 
 ---
 
-## 📫 Connect with me 
+## 🌐 Find me online
    
-<h5 align="center">
-   <ul>
-  Checkout my <a href="https://www.linkedin.com/in/adarshzolekar">LinkedIn</a> and <a href="https://www.hackerrank.com/profile/adarshzolekar">HackerRank</a>
-  & reach me via <a href="https://linktr.ee/AdarshZolekar">Linktree</a> or <a href="mailto:adarshzolekar90@gmail.com">Gmail</a>.
-</ul>
-</h5>
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" hspace="10"/>
   </a>
+  <a href="https://github.com/AdarshZolekar" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:15px;" hspace="10"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" hspace="10"/>
+  </a>
+   <a href="https://leetcode.com/u/adarshzolekar/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="LeetCode" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://www.kaggle.com/adarshzolekar" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/kaggle-icon.svg" alt="Kaggle" width="40" height="40" style="margin-right:15px;" hspace="10"/>
+  </a>
+  <a href="https://huggingface.co/adarshzolekar" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40" style="margin-right:15px;" hspace="10"/>
   </a>
   <a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="Linktree" width="40" height="40" hspace="10"/>
