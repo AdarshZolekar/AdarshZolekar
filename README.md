@@ -64,6 +64,10 @@
       <br>VSCode
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/AdarshZolekar/icons/main/lmstudio-icon.png" width="48" height="48" alt="LM Studio" />
+      <br>LM Studio
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
