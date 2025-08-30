@@ -194,5 +194,8 @@
 > *"One should perform their duties with utmost sincerity, without attachment to the results."* - Lord Krishna, The Bhagavad Gita.
 
 <p align="center">
-Thanks for visiting my profile. Let’s build something impactful together!
+ <g transform="translate(10, 240)" class="msg-5">
+    <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Thanks for visiting my profile. Let’s build something impactful together! </text>    
+  </g>  
 </p>
