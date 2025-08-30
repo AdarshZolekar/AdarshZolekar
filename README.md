@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 A Glimpse of Me
 <ul> 
 <li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
 <li> Exploring Industry 5.0 and Cloud (AWS) with AI/ML projects</li>   
@@ -16,13 +16,15 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 💻 Technologies I Use 
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -163,7 +165,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&rank_icon=github&theme=transparent" />
@@ -184,13 +186,13 @@
 
 ---
 
-## 📈 Commit Graph  
+## 📈 Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
 </p>
 
-💬 **Quote**
+💬 **Inspirational Quote**
 > *"One should perform their duties with utmost sincerity, without attachment to the results."* - Lord Krishna, The Bhagavad Gita.
 
 <p align="center">
