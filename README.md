@@ -109,29 +109,52 @@
 ## 🌐 Find me online
    
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" hspace="10"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="https://github.com/AdarshZolekar" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:15px;" hspace="10"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/AdarshZolekar" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="40" height="40" style="margin: 10px;"/>
   </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" hspace="10"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+         alt="HackerRank" width="40" height="40" style="margin: 10px;"/>
   </a>
-   <a href="https://leetcode.com/u/adarshzolekar/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="LeetCode" width="40" height="40" hspace="10"/>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" 
+         alt="LeetCode" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="https://www.kaggle.com/adarshzolekar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="margin-right:15px;" hspace="10"/>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" 
+         alt="Kaggle" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="https://huggingface.co/adarshzolekar" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40" style="margin-right:15px;" hspace="10"/>
+
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/adarshzolekar" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" 
+         alt="Hugging Face" width="40" height="40" style="margin: 10px;"/>
   </a>
+
+  <!-- Linktree -->
   <a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="Linktree" width="40" height="40" hspace="10"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" 
+         alt="Linktree" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="mailto:adarshzolekar90@gmail.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="40" height="40" hspace="10"/>
+
+  <!-- Gmail -->
+  <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" 
+         alt="Gmail" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
 
