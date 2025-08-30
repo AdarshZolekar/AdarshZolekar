@@ -55,6 +55,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -135,8 +137,6 @@
              alt="LeetCode" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" 
