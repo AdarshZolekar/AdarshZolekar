@@ -68,21 +68,18 @@
 </ul>
 </h5>
 <p align="center">
-  <a href="https://www.linkedin.com/in/adarshzolekar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linktr.ee/AdarshZolekar">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/adarshzolekar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
+  <a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="Linktree" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:adarshzolekar90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a> 
 </p>
 
 ---
