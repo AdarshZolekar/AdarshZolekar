@@ -52,7 +52,7 @@
       <br>Github
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <img src="./assets/icons/docker.png" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
   </tr>
