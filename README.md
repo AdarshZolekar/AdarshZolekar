@@ -52,7 +52,7 @@
       <br>Github
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/docker.png" width="48" height="48" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
   </tr>
@@ -178,7 +178,6 @@
     <img src="https://streak-stats.demolab.com?user=AdarshZolekar"alt="GitHub Streak"&theme=transparent />
   </a>
 </p>
-[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/AdarshZolekar/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
