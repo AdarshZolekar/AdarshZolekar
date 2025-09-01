@@ -178,6 +178,7 @@
     <img src="https://streak-stats.demolab.com?user=AdarshZolekar"alt="GitHub Streak"&theme=transparent />
   </a>
 </p>
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/AdarshZolekar/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
