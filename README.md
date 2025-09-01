@@ -58,11 +58,11 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="48" height="48" alt="VSCode" />
       <br>VS Code
     </td>
     <td align="center" width="96">
