@@ -112,7 +112,7 @@
 ## 💻 Development Setup
 
 • **Model :** HP Pavilion 15 (eg3081TU)  
-• **Processor :** Intel® Core™ i5-1340P (12 cores, up to 4.6 GHz)
+• **Processor :** Intel® Core™ i5-1340P (13th Gen,12 cores, up to 4.6 GHz)  
 • **Memory :** 16 GB DDR4  
 • **Storage :** 512 GB NVMe SSD  
 • **Graphics :** Intel® Iris® Xe Graphics  
