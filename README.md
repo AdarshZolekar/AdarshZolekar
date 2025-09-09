@@ -111,12 +111,12 @@
 
 ## 💻 Development Setup
 
-**Model:** HP Pavilion 15 (eg3081TU)  
-**Processor:** Intel® Core™ i5-1235U (10 cores, up to 4.4 GHz)  
-**Memory:** 16 GB DDR4  
-**Storage:** 512 GB NVMe SSD  
-**Graphics:** Intel® Iris® Xe Graphics  
-**OS:** Windows 11 Home
+• **Model :** HP Pavilion 15 (eg3081TU)  
+• **Processor :** Intel® Core™ i5-1340P (12 cores, up to 4.6 GHz)
+• **Memory :** 16 GB DDR4  
+• **Storage :** 512 GB NVMe SSD  
+• **Graphics :** Intel® Iris® Xe Graphics  
+• **OS :** Windows 11 Home
 
 ---
 
