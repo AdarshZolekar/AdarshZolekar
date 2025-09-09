@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Technologies I Use 
+## 🖥️ Technologies I Use 
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -106,6 +106,17 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=Smart-Food-Nutrition-Detector&theme=transparent" />
   </a>
 </p>
+
+---
+
+## 💻 Development Setup
+
+**Model:** HP Pavilion 15 (eg3081TU)  
+**Processor:** Intel® Core™ i5-1235U (10 cores, up to 4.4 GHz)  
+**Memory:** 16 GB DDR4  
+**Storage:** 512 GB NVMe SSD  
+**Graphics:** Intel® Iris® Xe Graphics  
+**OS:** Windows 11 Home
 
 ---
 
