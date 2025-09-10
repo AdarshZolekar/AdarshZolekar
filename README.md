@@ -116,7 +116,7 @@
 • **Memory :** 16 GB DDR4  
 • **Storage :** 512 GB NVMe SSD  
 • **Graphics :** Intel® Iris® Xe Graphics  
-• **OS :** Windows 11 Home.
+• **OS :** Windows 11 Home
 
 ---
 
