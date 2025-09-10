@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Adarsh 👋, Welcome to my Github profile!</h2> 
+<h2 align="center">Hi, I'm Adarsh 👋, Welcome to my Github profile!</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=1E90FF&size=22&center=true&vCenter=true&width=600&lines=Compiling+dreams+into+reality...;Always+learning+new+things..." />
