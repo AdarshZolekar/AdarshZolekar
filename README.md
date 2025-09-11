@@ -120,7 +120,7 @@
 
 ---
 
-## 🌐 Find me online
+## 🌐 Connect with me
    
 <table align="center">
   <tr>
