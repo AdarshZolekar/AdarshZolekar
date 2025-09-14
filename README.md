@@ -99,11 +99,11 @@
 ## ✨️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AdarshZolekar/SMS-Spam-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=transparent" />
-  </a>
   <a href="https://github.com/AdarshZolekar/Smart-Food-Nutrition-Detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=Smart-Food-Nutrition-Detector&theme=transparent" />
+  </a>
+  <a href="https://github.com/AdarshZolekar/SMS-Spam-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=SMS-Spam-Detection&theme=transparent" />
   </a>
 </p>
 
