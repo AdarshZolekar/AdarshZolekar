@@ -177,7 +177,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&rank_icon=github&theme=transparent" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent" />
 </p>
 
