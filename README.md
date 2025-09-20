@@ -32,16 +32,16 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/ollama.svg" width="48" height="48" alt="Ollama" />
-      <br>Ollama
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -52,18 +52,22 @@
       <br>Github
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
       <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/ollama.svg" width="48" height="48" alt="Ollama" />
+      <br>Ollama
     </td>
     <td align="center" width="96">
       <img src="https://lmstudio.ai/favicon.ico" width="48" height="48" alt="LM Studio" style="margin: 10px;" />
@@ -80,10 +84,6 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
       <br>Jupyter
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
