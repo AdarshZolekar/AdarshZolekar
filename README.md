@@ -32,8 +32,8 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
+      <img src="OLLAMA_ICON_URL" width="48" height="48" alt="Ollama" />
+      <br>Ollama
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
