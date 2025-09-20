@@ -32,7 +32,7 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://logo.svgcdn.com/l/ollama-dark.svg" width="48" height="48" alt="Ollama" />
+      <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/ollama.svg" width="48" height="48" alt="Ollama" />
       <br>Ollama
     </td>
     <td align="center" width="96">
