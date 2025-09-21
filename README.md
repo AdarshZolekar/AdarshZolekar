@@ -9,8 +9,8 @@
 ## 🌟 A Glimpse of Me 
 <ul> 
 <li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
-<li> Exploring Industry 5.0 and Cloud (AWS) with AI/ML projects</li>   
-<li> Always learning: Python, DSA, SQL and Cloud AI tools</li>  
+<li> Exploring Industry 5.0 and AWS Cloud with AI & ML projects</li>   
+<li> Always learning: Python, SQL, DSA and Cloud AI tools</li>  
 <li> Actively preparing for hackathons, projects and internships</li> 
 </ul>
 
