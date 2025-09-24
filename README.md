@@ -5,7 +5,7 @@
 </p>
  
 ---
-
+ 
 ## 🌟 A Glimpse of Me 
 <ul> 
 <li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
