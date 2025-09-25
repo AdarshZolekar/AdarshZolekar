@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1E90FF&size=22&center=true&vCenter=true&width=600&lines=Compiling+dreams+into+reality...;Always+learning+new+things..." />
 </p>
  
----
+--- 
 
 ## 🌟 A Glimpse of Me 
 <ul> 
