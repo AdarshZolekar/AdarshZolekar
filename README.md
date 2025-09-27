@@ -14,7 +14,7 @@
 <li> Actively preparing for hackathons, projects and internships</li> 
 </ul>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🖥️ Technologies I Use
 
@@ -94,7 +94,7 @@
 </table>
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## ✨️ Featured Projects
 
@@ -104,7 +104,7 @@
   </a> 
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 💻 Development Setup
 
@@ -115,7 +115,7 @@
 • **Graphics :** Intel® Iris® Xe Graphics  
 • **OS :** Windows 11 Home
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Connect with me
    
@@ -172,7 +172,7 @@
   </tr>
 </table>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📊 GitHub Analytics  
 
@@ -193,7 +193,7 @@
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=brightgreen" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 Contribution Graph  
 
