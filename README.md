@@ -191,6 +191,7 @@
   <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
   <img src="https://img.shields.io/github/stars/AdarshZolekar?style=social" />
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=brightgreen" />
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
