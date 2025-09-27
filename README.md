@@ -188,8 +188,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AdarshZolekar?style=social" />
-  <img src="https://img.shields.io/github/stars/AdarshZolekar?style=social" />
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=brightgreen" />
   <img src="https://custom-icon-badges.demolab.com/github/last-commit/AdarshZolekar/AdarshZolekar?style=plastic&logo=history" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
