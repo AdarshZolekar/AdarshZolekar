@@ -188,9 +188,9 @@
 </p>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Happy,Coding!-Github-orange.svg?style=flat&logo=github" />
   <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" />
   <img src="https://custom-icon-badges.demolab.com/github/last-commit/AdarshZolekar/AdarshZolekar?style=plastic&logo=history" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Happy,Coding!-Github-orange.svg?style=flat&logo=github" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?style=flat&v=103&logo=github" />
 </p>
 
