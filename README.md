@@ -189,7 +189,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=brightgreen" />
-  <img src="https://custom-icon-badges.demolab.com/github/last-commit/AdarshZolekar/AdarshZolekar?style=plastic&logo=history" />
+  <img src="https://custom-icon-badges.demolab.com/github/Last-Commit/AdarshZolekar/AdarshZolekar?style=plastic&logo=history" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
 </p>
 
