@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Adarsh 👋, Welcome to my Github profile!</h2>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Compiling+dreams+into+reality...;Always+learning+new+things..." />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Compiling+dreams+into+reality...;Always+learning+new+things..." />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
