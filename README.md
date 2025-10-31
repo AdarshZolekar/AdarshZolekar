@@ -189,7 +189,9 @@
 
 <p align="center">
   <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" />
-  [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/u/AdarshZolekar)
+   <a href="https://leetcode.com/u/AdarshZolekar/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&color=black&logo=leetcode&logoColor=white&label=LeetCode%20Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/AdarshZolekar" />
+  </a>
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?style=flat&v=103&logo=github" />
 </p>
 
