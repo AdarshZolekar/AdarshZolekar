@@ -192,7 +192,8 @@
    <a href="https://leetcode.com/u/AdarshZolekar/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&color=black&logo=leetcode&logoColor=white&label=LeetCode%20Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/AdarshZolekar" />
   </a>
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?style=flat&v=103&logo=github" />
+<img src="https://img.shields.io/badge/Open%20Source-❤-fe3757?style=flat&logo=github&logoColor=white" />
+</p>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
