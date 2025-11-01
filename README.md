@@ -11,7 +11,7 @@
 <li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
 <li> Exploring Industry 5.0 and AWS Cloud with AI & ML projects</li>   
 <li> Always learning: Python, SQL, DSA and Cloud AI tools</li>  
-<li> Actively preparing for hackathons, projects and internships</li> 
+<li> Actively preparing for ``hackathons, projects and internships`` </li> 
 </ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -210,8 +210,6 @@
 </p>
 
 💬 **Inspirational Quote**
-```
 > *"One should perform their duties with utmost sincerity, without attachment to the results."* - Lord Krishna, The Bhagavad Gita.
-```
 
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
