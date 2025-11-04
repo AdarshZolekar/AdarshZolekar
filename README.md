@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Adarsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Welcome to my Github profile!</h2>
 
-<p align="center"> 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Compiling+dreams+into+reality...;Always+learning+new+things..." />
 </p>
 
