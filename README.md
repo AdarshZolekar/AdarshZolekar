@@ -207,6 +207,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username= AdarshZolekar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true" />
 </p>
 
 💬 **Inspirational Quote**
