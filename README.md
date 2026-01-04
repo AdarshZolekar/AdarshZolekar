@@ -7,7 +7,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌟 A Glimpse of Me
-<ul> 
+<ul>
 <li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
 <li> Exploring Industry 5.0 and AWS Cloud with AI & ML projects</li>   
 <li> Always learning: Python, SQL, DSA and Cloud AI tools</li>  
