@@ -96,9 +96,15 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## ✨️ Featured Projects
 
+<p align="center">
+  <a href="https://github.com/AdarshZolekar/Smart-Food-Nutrition-Detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshZolekar&repo=Smart-Food-Nutrition-Detector&theme=transparent" />
+  </a> 
+</p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 💻 Development Setup
 
