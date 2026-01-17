@@ -7,11 +7,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌟 A Glimpse of Me
+
 <ul>
-<li> Pursuing B.E. in Computer Engineering at SKNCOE (SPPU)</li>
-<li> Exploring Industry 5.0 and AWS Cloud with AI & ML projects</li>   
-<li> Always learning: Python, SQL, DSA and Cloud AI tools</li>  
-<li> Actively preparing for hackathons, projects and internships</li>
+  <li>B.E. Computer Engineering student at SPPU with an interest in AI/ML and scalable software systems</li>
+  <li>Hands-on experience with Python, Java, SQL, and modern development tools</li>
+  <li>Exploring cloud platforms (AWS) and applied machine learning through projects</li>
+  <li>Preparing for internships by strengthening DSA, core CS concepts, and project depth</li>
 </ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -96,18 +97,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-## 💻 Development Setup
-
-• **Model :** HP Pavilion 15 (eg3081TU)  
-• **Processor :** Intel® Core™ i5-1340P (13th Gen, 12 cores, 4.6 GHz)  
-• **Memory :** 16 GB DDR4  
-• **Storage :** 512 GB NVMe SSD  
-• **Graphics :** Intel® Iris® Xe Graphics  
-• **OS :** Windows 11 Home
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ## 🌐 Connect with me
    
 <table align="center">
@@ -164,13 +153,6 @@
 </table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" />
