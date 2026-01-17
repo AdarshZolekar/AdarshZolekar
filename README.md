@@ -9,10 +9,10 @@
 ## 🌟 A Glimpse of Me
 
 <ul>
-  <li>B.E. Computer Engineering student at SPPU with an interest in AI/ML and scalable software systems</li>
-  <li>Hands-on experience with Python, Java, SQL, and modern development tools</li>
+  <li>B.E. Computer Engineering student at SPPU with an interest in AI/ML and software systems</li>
+  <li>Hands-on experience with Python, SQL and modern development tools</li>
   <li>Exploring cloud platforms (AWS) and applied machine learning through projects</li>
-  <li>Preparing for internships by strengthening DSA, core CS concepts, and project depth</li>
+  <li>Preparing for internships by strengthening DSA, core CS concepts and project depth</li>
 </ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -151,8 +151,6 @@
     </td>
   </tr>
 </table>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
   <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" />
