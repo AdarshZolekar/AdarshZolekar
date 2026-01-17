@@ -16,7 +16,7 @@
 </ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdarshZolekar)](https://git.io/streak-stats)
 ## 🖥️ Technologies I Use
 
 <div style="display: flex; align-items: flex-start; align: center">
