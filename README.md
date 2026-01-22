@@ -160,7 +160,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar" />
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
+</p>
 
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue)
 ![LeetCode Solved](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar)
 </p>
