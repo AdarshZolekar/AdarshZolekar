@@ -161,9 +161,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&color=green)
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?color=green&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar)
-![Open Source ❤️](https://img.shields.io/github/commit-activity/y/AdarshZolekar?label=Open%20Source%20❤️&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue)
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar)
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
