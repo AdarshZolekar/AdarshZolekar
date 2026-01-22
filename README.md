@@ -159,7 +159,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar" />
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&langs_count=8&theme=transparent&cache_seconds=86400" />
 </p>
 
 <p align="center">
