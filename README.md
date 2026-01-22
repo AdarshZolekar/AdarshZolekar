@@ -157,18 +157,9 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar" />
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
-</p>
-
-
-<p align="center">
-  <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" />
-   <a href="https://leetcode.com/u/AdarshZolekar/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&color=black&logo=leetcode&logoColor=white&label=LeetCode%20Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/AdarshZolekar" />
-  </a>
-<img src="https://img.shields.io/badge/Open%20Source-❤-fe3757?style=flat&logo=github&logoColor=white" />
-</p>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
