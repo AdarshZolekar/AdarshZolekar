@@ -163,10 +163,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue&labelColor=blue" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar" />
+  <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue&labelColor=1f6feb" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=1f6feb&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar" />
   <img src="https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg?color=1f6feb" />
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-blue" />
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-1f6feb" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
