@@ -165,6 +165,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue&labelColor=blue" />
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar" />
+  <img src="https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg?color=1f6feb" />
   <img src="https://img.shields.io/badge/Open%20Source-❤️-blue" />
 </p>
 
