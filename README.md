@@ -162,6 +162,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=AdarshZolekar&color=red)
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?color=red&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar)
+![Open Source ❤️](https://img.shields.io/github/commit-activity/y/AdarshZolekar?label=Open%20Source%20❤️&color=red)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
