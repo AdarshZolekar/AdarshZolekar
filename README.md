@@ -152,6 +152,15 @@
   </tr>
 </table>
 
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=transparent&cache_seconds=86400" />
+</p>
+
+
 <p align="center">
   <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" />
    <a href="https://leetcode.com/u/AdarshZolekar/">
