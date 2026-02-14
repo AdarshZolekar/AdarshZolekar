@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
-</p> 
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
