@@ -17,7 +17,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🖥️ Technologies I Use
+## 🖥️ Technologies I Use 
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
