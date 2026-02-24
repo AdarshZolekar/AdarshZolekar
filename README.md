@@ -6,7 +6,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🌟 A Glimpse of Me 
+## 🌟 A Glimpse of Me
 
 <ul>
   <li>B.E. Computer Engineering student at SPPU with an interest in AI/ML and software systems</li>
