@@ -144,8 +144,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=transparent&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&langs_count=8&theme=transparent&cache_seconds=86400" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=light&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=light&hide_border=false" alt="Top Languages"/>
 </p>
 
 <p align="center">
