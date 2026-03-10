@@ -150,7 +150,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue&labelColor=1f6feb" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=1f6feb&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/adarshzolekar" />
   <img src="https://wakatime.com/badge/user/d3435c16-db57-44d4-9f61-59b2016be4c5.svg?color=1f6feb" />
   <img src="https://img.shields.io/badge/Open%20Source-❤️-1f6feb" />
 </p>
