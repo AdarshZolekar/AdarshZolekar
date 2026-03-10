@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ## 🌟 A Glimpse of Me
 
 <ul>
@@ -14,8 +12,6 @@
   <li>Exploring cloud platforms (AWS) and applied machine learning through projects</li>
   <li>Preparing for internships by strengthening DSA, core CS concepts and project depth</li>
 </ul>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🖥️ Technologies I Use
 
@@ -95,8 +91,6 @@
 </table>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ## 🌐 Connect with me
    
 <table align="center">
@@ -117,12 +111,6 @@
       <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
              alt="HackerRank" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" 
-             alt="LeetCode" width="40" height="40"/>
       </a>
     </td>
     <td>
@@ -152,8 +140,6 @@
   </tr>
 </table>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -169,9 +155,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-❤️-1f6feb" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
 ## 📈 Contribution Graph  
 
 <p align="center">
@@ -181,4 +164,4 @@
 💬 **Inspirational Quote**
 > *"One should perform their duties with utmost sincerity, without attachment to the results."* - Lord Krishna, The Bhagavad Gita.
 
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
+<img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
