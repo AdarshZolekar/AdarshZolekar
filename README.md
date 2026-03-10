@@ -96,6 +96,12 @@
 <table align="center">
   <tr>
     <td>
+      <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" 
+             alt="Gmail" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
              alt="LinkedIn" width="40" height="40"/>
@@ -131,10 +137,16 @@
              alt="Linktree" width="40" height="40"/>
       </a>
     </td>
+     <td>
+       <a href="https://www.quora.com/profile/AdarshZolekar" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" 
+              alt="Quora" width="40" height="40"/>
+       </a>
+    </td>
     <td>
-      <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" 
-             alt="Gmail" width="40" height="40"/>
+      <a href="https://twitter.com/AdarshZolekar" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+             alt="Twitter / X" width="40" height="40"/>
       </a>
     </td>
   </tr>
