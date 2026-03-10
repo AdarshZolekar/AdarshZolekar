@@ -137,12 +137,6 @@
              alt="Linktree" width="40" height="40"/>
       </a>
     </td>
-     <td>
-       <a href="https://www.quora.com/profile/AdarshZolekar" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" 
-              alt="Quora" width="40" height="40"/>
-       </a>
-    </td>
     <td>
       <a href="https://twitter.com/AdarshZolekar" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
