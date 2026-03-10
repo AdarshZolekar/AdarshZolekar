@@ -160,7 +160,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true" />
 </p>
 
-💬 **Inspirational Quote**
-> *"One should perform their duties with utmost sincerity, without attachment to the results."* - Lord Krishna, The Bhagavad Gita.
+## 💬 **Inspirational Quote**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteType=random">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&quoteType=random">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&quoteType=random">
+</picture>
 
 <img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
