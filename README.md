@@ -162,10 +162,6 @@
 
 ## 💬 **Inspirational Quote**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteType=random">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&quoteType=random">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&quoteType=random">
-</picture>
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=default&layout=default&font=default&quoteType=random">
 
 <img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
