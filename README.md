@@ -138,6 +138,18 @@
       </a>
     </td>
     <td>
+     <a href="https://medium.com/@AdarshZolekar" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
+            alt="Medium" width="40" height="40"/>
+     </a>
+    </td>
+    <td>
+     <a href="https://stackoverflow.com/users/31608467/adarsh-zolekar" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+            alt="Stack Overflow" width="40" height="40"/>
+     </a>
+    </td>
+    <td>
       <a href="https://instagram.com/adarsh.zolekar" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
              alt="Instagram" width="40" height="40"/>
