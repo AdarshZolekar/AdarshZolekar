@@ -95,72 +95,106 @@
    
 <table align="center">
   <tr>
+
     <td>
       <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" 
-             alt="Gmail" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white">
+          <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-             alt="LinkedIn" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
+          <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://github.com/AdarshZolekar" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-             alt="GitHub" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
-             alt="HackerRank" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/hackerrank/white">
+          <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" 
-             alt="Kaggle" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kaggle/white">
+          <img src="https://cdn.simpleicons.org/kaggle" alt="Kaggle" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://huggingface.co/adarshzolekar" target="_blank" rel="noreferrer">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" 
-             alt="Hugging Face" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/white">
+          <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" 
-             alt="Linktree" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linktree/white">
+          <img src="https://cdn.simpleicons.org/linktree" alt="Linktree" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
-     <a href="https://medium.com/@AdarshZolekar" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
-            alt="Medium" width="40" height="40"/>
-     </a>
+      <a href="https://medium.com/@AdarshZolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
+          <img src="https://cdn.simpleicons.org/medium" alt="Medium" width="40" height="40"/>
+        </picture>
+      </a>
     </td>
+
     <td>
-     <a href="https://stackoverflow.com/users/31608467/adarsh-zolekar" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-            alt="Stack Overflow" width="40" height="40"/>
-     </a>
+      <a href="https://stackoverflow.com/users/31608467/adarsh-zolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/white">
+          <img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" width="40" height="40"/>
+        </picture>
+      </a>
     </td>
+
     <td>
       <a href="https://instagram.com/adarsh.zolekar" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-             alt="Instagram" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
+          <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
     <td>
       <a href="https://twitter.com/AdarshZolekar" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-             alt="Twitter / X" width="40" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+          <img src="https://cdn.simpleicons.org/x" alt="Twitter / X" width="40" height="40"/>
+        </picture>
       </a>
     </td>
+
   </tr>
 </table>
 
