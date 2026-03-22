@@ -188,8 +188,6 @@
 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light&animation=default&layout=default&font=default&quoteType=random">
 
-<img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
-
 <h4 align="center">
   
 ```diff
@@ -222,3 +220,5 @@
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
+<img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
