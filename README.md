@@ -105,10 +105,7 @@
 </td>
 <td>
 <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
-<img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
-</picture>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 </td>
 <td>
@@ -121,10 +118,7 @@
 </td>
 <td>
 <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/hackerrank/white">
-<img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40"/>
-</picture>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
 </a>
 </td>
 <td>
@@ -137,10 +131,7 @@
 </td>
 <td>
 <a href="https://huggingface.co/adarshzolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/white">
-<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40"/>
-</picture>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
 </a>
 </td>
 <td>
