@@ -166,14 +166,6 @@
 </picture>
 </a>
 </td>
-<td>
-<a href="https://twitter.com/AdarshZolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-<img src="https://cdn.simpleicons.org/x" alt="Twitter / X" width="40" height="40"/>
-</picture>
-</a>
-</td>
 </tr>
 </table>
 
