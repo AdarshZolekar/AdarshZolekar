@@ -159,11 +159,13 @@
 </a>
 </td>
 <td>
-<a href="https://instagram.com/adarsh.zolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
-<img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40"/>
-</picture>
+<a href="https://bsky.app/profile/adarshzolekar.bsky.social" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" width="40" height="40"/>
+</a>
+</td>
+<td>
+<a href="https://www.quora.com/profile/Adarsh-Zolekar" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/quora/B92B27" alt="Quora" width="40" height="40"/>
 </a>
 </td>
 </tr>
