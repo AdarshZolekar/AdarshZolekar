@@ -99,7 +99,7 @@
 <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white">
-<img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
 </picture>
 </a>
 </td>
