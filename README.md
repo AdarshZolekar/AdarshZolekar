@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
 </p>
 
-## 🌟 A Glimpse of Me
+## 🌟 A Glimpse of Me 
 
 <ul>
   <li>B.E. Computer Engineering student at SPPU with an interest in AI/ML and software systems</li>
