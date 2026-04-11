@@ -13,7 +13,7 @@
   <li>Preparing for internships by strengthening DSA, core CS concepts and project depth</li>
 </ul>
 
-## 🖥️ Technologies I Use
+## 🖥️ Technologies I Use 
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
