@@ -122,8 +122,9 @@
 </a>
 </td>
 <td>
+<td>
 <a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.svg" alt="LeetCode" width="40" height="40"/>
 </a>
 </td>
 <td>
