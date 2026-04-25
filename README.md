@@ -122,6 +122,11 @@
 </a>
 </td>
 <td>
+<a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" height="40"/>
+</a>
+</td>
+<td>
 <a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kaggle/white">
@@ -148,19 +153,6 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
 <img src="https://cdn.simpleicons.org/medium" alt="Medium" width="40" height="40"/>
 </picture>
-</a>
-</td>
-<td>
-<a href="https://stackoverflow.com/users/31608467/adarsh-zolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/white">
-<img src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://bsky.app/profile/adarshzolekar.bsky.social" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" width="40" height="40"/>
 </a>
 </td>
 <td>
