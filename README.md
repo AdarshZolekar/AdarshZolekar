@@ -160,6 +160,14 @@
 <img src="https://cdn.simpleicons.org/quora/B92B27" alt="Quora" width="40" height="40"/>
 </a>
 </td>
+<td>
+<a href="https://x.com/adarsh_zolekar" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+<img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
+</picture>
+</a>
+</td>
 </tr>
 </table>
 
