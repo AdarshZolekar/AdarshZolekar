@@ -122,9 +122,8 @@
 </a>
 </td>
 <td>
-<td>
 <a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.svg" alt="LeetCode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
 </a>
 </td>
 <td>
