@@ -123,7 +123,7 @@
 </td>
 <td>
 <a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40"/>
 </a>
 </td>
 <td>
