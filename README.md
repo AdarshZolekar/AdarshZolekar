@@ -174,7 +174,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=cyber-streakglow" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AdarshZolekar&show_icons=true&theme=light&include_all_commits=true&count_private=true&rank_icon=github" height="180em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdarshZolekar&layout=compact&theme=light&hide_border=false&langs_count=6" alt="Top Languages"/>
 </p>
