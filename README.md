@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
 </p>
 
+<p align="center">
+  <img src="./images/1778922604191.png" width="200">
+</p>
+
 ## 🌟 A Glimpse of Me 
 
 <ul>
@@ -228,3 +232,8 @@
 </div>
 
 <img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
+
+<p align="center">
+  <img src="./images/1778922909345.png" width="200">
+</p>
+
