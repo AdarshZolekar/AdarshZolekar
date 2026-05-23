@@ -224,6 +224,9 @@
 
 </h4>  
 
+<p align="center">
+  <img src="./images/1778922909345.png" alt="Banner" width="800px">
+</p>
 
 <div align="center">
 
@@ -231,9 +234,6 @@
 
 </div>
 
-<img align='center' height="100" alt="Thanks" width="200%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
+<img align='center' height="100" alt="Thanks" width="200%" src="./images/marquee.svg"/>
 
-<p align="center">
-  <img src="./images/1778922909345.png" alt="Banner" width="800px">
-</p>
 
