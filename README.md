@@ -184,8 +184,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdarshZolekar&color=blue&labelColor=1f6feb" />
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-1f6feb" />
+  <img src="https://hits.sh/github.com/AdarshZolekar/AdarshZolekar.svg?label=Total%20Profile%20Views&extraCount=1000&color=fe3757&labelColor=bf11cc&logo=github" alt="Profile Visitors" />
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/AdarshZolekar/AdarshZolekar?style=plastic&logo=history&label=Last%20Commit&color=fe3757&labelColor=bf11cc" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/Open%20Source-🤍-fe3757?labelColor=bf11cc&logo=github" alt="Open Source" />
 </p>
 
 ## 📈 Contribution Graph  
