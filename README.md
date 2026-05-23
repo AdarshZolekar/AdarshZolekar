@@ -1,7 +1,7 @@
 <h2 align="center"> 𝐇𝐢, 𝐈'𝐦 𝐀𝐝𝐚𝐫𝐬𝐡 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?&font=Tourney&weight=750&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
 </p>
 
 <p align="center">
