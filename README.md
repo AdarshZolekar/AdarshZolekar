@@ -229,12 +229,6 @@
   <img src="./images/1778922909345.png" alt="Banner" width="800px">
 </p>
 
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
 <img align='center' height="100" alt="Thanks" width="200%" src="./images/marquee.svg"/>
 
 
