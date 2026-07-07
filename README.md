@@ -11,7 +11,7 @@
 ## 🌟 A Glimpse of Me 
 
 <ul>
-  <li>B.E. Computer Engineering student at SPPU with an interest in AI/ML and software systems</li>
+  <li>B.E. Computer  Engineering student at SPPU with an interest in AI/ML and software systems</li>
   <li>Hands-on experience with Python, SQL and modern development tools</li>
   <li>Exploring cloud platforms (AWS) and applied machine learning through projects</li>
   <li>Preparing for internships by strengthening DSA, core CS concepts and project depth</li>
