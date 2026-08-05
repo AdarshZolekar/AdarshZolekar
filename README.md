@@ -165,7 +165,7 @@
 </a>
 </td>
 <td>
-<a href="https://x.com/adarsh_zolekar" target="_blank" rel="noreferrer">
+<a href="https://x.com/adarsh1zolekar" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
 <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
