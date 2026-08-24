@@ -152,11 +152,6 @@
 </a>
 </td>
 <td>
-<a href="https://www.quora.com/profile/Adarsh-Zolekar" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/quora/B92B27" alt="Quora" width="40" height="40"/>
-</a>
-</td>
-<td>
 <a href="https://medium.com/@AdarshZolekar" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
