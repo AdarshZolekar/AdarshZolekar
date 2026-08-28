@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=Tourney&weight=750&color=1f6feb&size=25&lines=Building+the+future+with+code+💻;Always+learning+new+things+🚀" />
 </p>
 
-<p align="center">
-  <img src="./images/1778922604191.png" alt="Adarsh Zolekar" width="800px">
-</p>
-
 ## 🌟 A Glimpse of Me 
 
 <ul>
