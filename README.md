@@ -184,5 +184,4 @@
 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light&animation=default&layout=default&font=default&quoteType=random">
 
-
 <img align='center' height="100" alt="Thanks" width="200%" src="./images/marquee.svg"/>
