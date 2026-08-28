@@ -180,43 +180,9 @@
   <img src="https://img.shields.io/badge/Open%20Source-🤍-fe3757?labelColor=bf11cc&logo=github" alt="Open Source" />
 </p>
 
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshZolekar&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true" />
-</p>
-
 ## 💬 **Inspirational Quote**
 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light&animation=default&layout=default&font=default&quoteType=random">
 
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) )|    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
 
 <img align='center' height="100" alt="Thanks" width="200%" src="./images/marquee.svg"/>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="200%">
