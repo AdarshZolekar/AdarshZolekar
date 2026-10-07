@@ -166,7 +166,7 @@
 </tr>
 </table>
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshZolekar&theme=cyber-streakglow&border_radius=30" />
