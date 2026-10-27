@@ -180,7 +180,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-🤍-fe3757?labelColor=bf11cc&logo=github" alt="Open Source" />
 </p>
 
-## 💬 **Inspirational Quote**
+## 💬 **Inspirational Quote** 
 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light&animation=default&layout=default&font=default&quoteType=random">
 
