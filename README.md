@@ -90,7 +90,7 @@
   </table>
 </div>
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <table align="center">
   <tr>
