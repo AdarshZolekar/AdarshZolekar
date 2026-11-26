@@ -91,78 +91,88 @@
 </div>
 
 ## 🌐 Connect with me
-   
+
 <table align="center">
-<tr>
-<td>
-<a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/AdarshZolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-<img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
-</a>
-</td>
-<td>
-<a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-</a>
-</td>
-<td>
-<a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kaggle/white">
-<img src="https://cdn.simpleicons.org/kaggle" alt="Kaggle" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://huggingface.co/adarshzolekar" target="_blank" rel="noreferrer">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-</a>
-</td>
-<td>
-<a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linktree/white">
-<img src="https://cdn.simpleicons.org/linktree" alt="Linktree" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://medium.com/@AdarshZolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
-<img src="https://cdn.simpleicons.org/medium" alt="Medium" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://x.com/adarsh1zolekar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-<img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
-</picture>
-</a>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="mailto:adarshzolekar90@gmail.com" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
+        </picture>
+      </a>
+      <br>Gmail
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/adarshzolekar" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/AdarshZolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
+        </picture>
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.hackerrank.com/profile/adarshzolekar" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+      </a>
+      <br>HackerRank
+    </td>
+    <td align="center" width="96">
+      <a href="https://leetcode.com/u/adarshzolekar/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+      </a>
+      <br>LeetCode
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.kaggle.com/adarshzolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kaggle/white">
+          <img src="https://cdn.simpleicons.org/kaggle" alt="Kaggle" width="40" height="40"/>
+        </picture>
+      </a>
+      <br>Kaggle
+    </td>
+    <td align="center" width="96">
+      <a href="https://huggingface.co/adarshzolekar" target="_blank" rel="noreferrer">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+      </a>
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <a href="https://linktr.ee/AdarshZolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linktree/white">
+          <img src="https://cdn.simpleicons.org/linktree" alt="Linktree" width="40" height="40"/>
+        </picture>
+      </a>
+      <br>Linktree
+    </td>
+    <td align="center" width="96">
+      <a href="https://medium.com/@AdarshZolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
+          <img src="https://cdn.simpleicons.org/medium" alt="Medium" width="40" height="40"/>
+        </picture>
+      </a>
+      <br>Medium
+    </td>
+    <td align="center" width="96">
+      <a href="https://x.com/adarsh1zolekar" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+          <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
+        </picture>
+      </a>
+      <br>X
+    </td>
+  </tr>
 </table>
 
 ## 📊 GitHub Analytics 
